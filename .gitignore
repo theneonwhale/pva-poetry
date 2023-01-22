@@ -1,1 +1,6 @@
 *.data
+.idea
+
+pva/__pycache__
+
+venv
